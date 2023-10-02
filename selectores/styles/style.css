@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+img{
+    float: left;
+}
+.azul{
+    background-color:#E6F3FF;
+}
+.amarillo{
+    background-color:  #FFFFCC;
+}
+table, th, td{
+    border: 3px solid black;
+    border-style: outset;
+    text-align: center;
+    font-style: Arial;
+}
+th, td{
+    padding: 12px;
+}
+th{
+    background-image: url(/imagenes/fondo_gris.gif);
+}
+tr:hover td{
+    background-color: #FFFF66;
+}
+body{
+    content: center;
+}
